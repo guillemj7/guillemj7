@@ -17,7 +17,7 @@ Because of this, I am convinced that I will be a very valuable member in any pos
 In this repository, you can find Jupyter Notebook files related with Machine Learning, Deep learning and Data Science. The files are organised in folders.
 
 ## Contact me
-You can reach me via: <space><space>
+You can reach me via: <br>
    -Gmail: guillemjuanico02@gmail.com  <space><space>
    -LinkedIn: www.linkedin.com/in/guillem-juanico-rull
 
