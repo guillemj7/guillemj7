@@ -1,5 +1,5 @@
-# Welcome to my GitHub profile!
-I am Guillem Juanico. First of all, I would like to thank you for using your time to check this repository. Let's talk a little bit about myself.
+# Welcome to Guillem Juanico's portfolio!
+First of all, I would like to thank you for using your time to check this repository. Let's talk a little bit about myself.
 
 ## About myself
 
