@@ -18,7 +18,7 @@ In this repository, you can find Jupyter Notebook files related with Machine Lea
 
 ## Contact me
 You can reach me via: <br>
-   -Gmail: guillemjuanico02@gmail.com  <space><space>
+   -Gmail: guillemjuanico02@gmail.com  <br>
    -LinkedIn: www.linkedin.com/in/guillem-juanico-rull
 
 
