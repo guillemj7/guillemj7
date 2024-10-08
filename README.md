@@ -14,7 +14,7 @@ Because of its nature, mathematics are the discipline that relates the most to w
 Therefore, I am convinced that I will be a very valuable member in any position or team where logical thinking is needed and there are challenging problems that need to be solved.
 
 ## What to expect from this repository
-In this repository, you can find Jupyter Notebook files related with Machine Learning, Deep learning and Data Science. The files are organised in folders.
+In this repository, you can find Jupyter Notebook files related with Machine Learning, Deep learning and Data Science. The files are organised in folders. This repository is being updated constantly, so don't hesitate to visit it from time to time to check what is new!
 
 ## Contact me
 You can reach me via: <br>
