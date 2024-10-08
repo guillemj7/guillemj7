@@ -1,8 +1,10 @@
 # Welcome to Guillem Juanico's portfolio!
-First of all, I would like to thank you for using your time to check this repository. Let's talk a little bit about myself.
+First of all, I would like to thank you for using your time to check this repository. Let me tell you about some topics:
 
-## About myself
+## About my interests
+The boosting of AI and its applications in the recent years implies a change in the way we understand society and the world. The possibilities of this technology in fields like technology, economics, health, logistic,...  are difficult to seize, and the boundaries are yet to be discovered. 
 
+Being part of the change drives me to improve and motivates me to keep discovering the potential that this new resource offers. I am interested in applying the latest Machine Learning, Deep Learning and Data science techniques in order to predict processes and understand the nature of phenomenon happening in real-world situations. 
 
 ## About my education
 I have just finished studying my bachelor's degree in Mathematics at Universitat Autònoma de Barcelona which I have enjoyed a lot. During these last years, I have had the opportunity to learn about several mathematical theories and techniques. However, the degree does not limit to this kind of knowledge. It is well-known that mathematics are an analytical, abstract, logical subject. This is not a coincidence. 
@@ -12,8 +14,12 @@ Because of its nature, mathematics are the discipline that relates the most to w
 Because of this, I am convinced that I will be a very valuable member in any position or team where logical thinking is needed and there are challenging problems that need to be solved.
 
 ## What to expect from this repository
-In this repository, one can find Jupyter Notebook files related with Machine Learning, Deep learning and Data Science. The files are organised in folders. In order to take a look at the actual notebook, I would suggest double clicking the file to open it and, once one has accessed, open the file using GitHub
+In this repository, you can find Jupyter Notebook files related with Machine Learning, Deep learning and Data Science. The files are organised in folders.
 
+## Contact me
+You can reach me via:
+   -Gmail: guillemjuanico02@gmail.com  
+   -LinkedIn: www.linkedin.com/in/guillem-juanico-rull
 
 
 
