@@ -11,7 +11,7 @@ I have just finished studying my bachelor's degree in Mathematics at Universitat
 
 Because of its nature, mathematics are the discipline that relates the most to what we understand as pure analytical thinking. Working in such general environment provides very useful tools that can be used not only in mathematical contexts but also in fields that lay further. It is true that the shade mathematics cast is very long, but I am not talking only about the technical results and propositions learned during the degree. Due to the fact that mathematics are problem-solving orientated, the logical methods and resources needed to solve complex problems that I have acquired during my education allow me to approach problems from any discipline in a creative, constructive, critical way, and with the right attitude, something that from my point of view is indispensable when facing challenges. 
 
-Because of this, I am convinced that I will be a very valuable member in any position or team where logical thinking is needed and there are challenging problems that need to be solved.
+Therefore, I am convinced that I will be a very valuable member in any position or team where logical thinking is needed and there are challenging problems that need to be solved.
 
 ## What to expect from this repository
 In this repository, you can find Jupyter Notebook files related with Machine Learning, Deep learning and Data Science. The files are organised in folders.
